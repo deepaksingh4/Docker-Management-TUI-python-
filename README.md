@@ -31,7 +31,35 @@ Just clone this Repository and use the command for executing the Program.
 python3 DockerManagementTui.py
 ```
 # User Interfaace
+![UI](Images/UI.png)
 
-#About
+# Download Images
+![DownloadImage](Images/DownloadImages.png)
+
+# Setup Server
+![SetupServer](Images/SetupServer.png)
+
+# Start Container
+![StartContainer](Images/StartContainer.png)
+
+# Version Check
+![VersionCheck](Images/DockVersion.png)
+
+# Image Check 
+![ImageCheck](Images/CheckImages.png)
+
+# Active-Container Check
+![ContainerCheck](Images/ActuveContainers.png)
+
+# Exit
+![Exit](Images/Exit.png)
+
+# Wordpress Server
+![WordpressServer](Images/wordpress.png)
+
+# Emby Server
+![EmbyServer](Images/EmbyServer.png)
+
+# About
 
 TThis is a docker project built for need of automation and maintaining the server database in cases when local system crashes, Docker is too fast in building OS i.e. in few seconds this will help owncloud to maintain file storage safe. This project was built for course completion Docker Essentials Under IIEC.
