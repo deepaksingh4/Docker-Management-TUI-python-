@@ -63,3 +63,9 @@ python3 DockerManagementTui.py
 # About
 
 TThis is a docker project built for need of automation and maintaining the server database in cases when local system crashes, Docker is too fast in building OS i.e. in few seconds this will help owncloud to maintain file storage safe. This project was built for course completion Docker Essentials Under IIEC.
+
+# Authors
+- [Aishwary Madiwale](https://github.com/lelouch885)
+- [Deepak Singh](https://github.com/deepaksingh4)
+
+
