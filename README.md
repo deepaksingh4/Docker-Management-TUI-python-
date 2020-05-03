@@ -21,10 +21,10 @@ With this repo you can Automatically:
 - MySQL
 - Embdy Server
 
-#Requirements
+# Requirements
 Make sure that you have atleast python3 installed on your machine.
 
-#Usage
+# Usage
 
 Just clone this Repository and use the command for executing the Program.
 ``` python
